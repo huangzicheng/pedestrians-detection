@@ -12,4 +12,4 @@ Model    |   MAP
 YOLO-V3+GIOU  |   62.5%
  YOLO-V3+Soft-NMS |   65.7%
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/URvgh09JuBw)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/Ho4Wayeyrwo)
