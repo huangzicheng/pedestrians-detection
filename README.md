@@ -11,5 +11,6 @@ Model    |   MAP
  YOLO-V3-tiny |    42%
 YOLO-V3+GIOU  |   62.5%
  YOLO-V3+Soft-NMS |   65.7%
+ FCOS-ResNet50   |   65.38%
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/Ho4Wayeyrwo)
