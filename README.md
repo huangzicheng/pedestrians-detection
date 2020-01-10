@@ -12,9 +12,9 @@ Model    |   MAP
 YOLO-V3+GIOU  |   62.5%
  YOLO-V3+Soft-NMS |   65.7%
  FCOS-ResNet50   |   65.38%(5 epoch)
- FCOS0-mobilenet v2 |  75% (90000 iters)
+ FCOS-mobilenet v2 |  75% (90000 iters)
  
  
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/CEhYlZonBxM)
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/CEhYlZonBxM)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/rgcTUodrWz0)
